@@ -33,14 +33,17 @@
   - 중복되면 안된다.
 
 ---
-7.
-
-
-
+7. 라이브러리 추가하기 
+ - https://maven.atlassian.com/content/repositories/atlassian-public/com/atlassian/security/atlassian-secure-random/3.2.10/atlassian-secure-random-3.2.10.jar
+ 
+ - JAR 파일로 라이브러리 추가하기
+ - 추가된 라이브러리로 로또 만들기
+ 
 ---
-8.
-
-
+8. Maven 사용하기
+ - maven 프로젝트 만들기
+ - maven 으로 라이브러리 추가하기
+ 
 ---
 9.
 
