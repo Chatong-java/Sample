@@ -35,23 +35,28 @@
 ---
 ### 7. 라이브러리 추가하기 
  - https://maven.atlassian.com/content/repositories/atlassian-public/com/atlassian/security/atlassian-secure-random/3.2.10/atlassian-secure-random-3.2.10.jar
- 
+
  - JAR 파일로 라이브러리 추가하기
  - 추가된 라이브러리로 로또 만들기
- 
+
 ---
 ### 8. Maven 사용하기
  - maven 프로젝트 만들기
  - maven 으로 라이브러리 추가하기
- 
----
-9.
-
 
 ---
-10.
+### 9. 데이터 베이스 사용하기
+ - maria db 사용
+ - jdbc 사용
+
+ - user 관리 프로그램 만들기
+
+---
+### 10. Unit Test
+ - junit 사용하기
+ - test case 작성
+ - main 함수 없이 만들기
 
 
 ---
 11.
-
